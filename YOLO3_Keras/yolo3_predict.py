@@ -15,7 +15,7 @@ from keras import backend as K
 from keras.layers import Input
 from yolo3.model import yolo_eval, yolo_body
 from yolo3.utils import letterbox_image
-from yolo3.yolo_utils import draw_boxes
+from yolo3.utils import draw_boxes
 
 class YOLO(object):
     def __init__(self):
