@@ -3,7 +3,7 @@ Keras==2.2.0
 lxml==4.1.1
 Markdown==2.6.9
 matplotlib==2.2.3
-numpy==1.14.5
+numpy==1.22.0
 opencv-python==3.4.0.12
 pandas==0.21.1
 Pillow==4.3.0
